@@ -1,0 +1,10 @@
+Overall Accuracy: 0.9777
+Kappa Coefficient: 0.9553
+Illite Producer's Accuracy: 0.9902
+Illite User's Accuracy: 0.9660
+Illite Omission Error: 0.0098
+Illite Commission Error: 0.0340
+Non-Illite Producer's Accuracy: 0.9652
+Non-Illite User's Accuracy: 0.9899
+Non-Illite Omission Error: 0.0348
+Non-Illite Commission Error: 0.0101
